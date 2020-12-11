@@ -19,6 +19,6 @@ We will leverage machine learning, deep learning and deep transfer learning to s
 - NLP Applications
     - Text Similarity Content Recommenders
     - Topic Modeling
-    - Text Summarization (Extractive & Abstractive)
+    - Text Summarization (Extractive)
     - Text Classification (ML, DNN, CNN, LSTM, BERT)
     - Multi-Task NLP (Transformers)
